@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-503-japanese-iii-fall-2019/002a5b24424332cb7f59f060e00130ac_-W8jzpw_TgE.pdf
+file: /media/courses/21g-503-japanese-iii-fall-2019/002a5b24424332cb7f59f060e00130ac_-W8jzpw_TgE.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 002a5b24-4243-32cb-7f59-f060e00130ac
