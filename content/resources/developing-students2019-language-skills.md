@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Developing Students\u2019 Language Skills"
 uid: e66a97f6-ceea-21d2-5b95-65b205dd1fde
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 4e53ed32-26d3-1ced-4e6d-ed3f99127d69
 resourcetype: Image
 title: Prof_Aikawa.jpg
 uid: 5bf9bb54-20f5-c2ab-52fd-57c055552e07

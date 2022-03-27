@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Grammar and Drill Sessions
 uid: 6a052dfe-7676-79ec-1939-eb2916f9a1fe
 video_files:
