@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides the quizzes for the MIT course 21G.503 Japanese III,
+  Fall 2019 taught by Takako Aikawa , Masami Ikeka-Lamm, Wakana Maekawa, and Emiko
+  Rafique.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

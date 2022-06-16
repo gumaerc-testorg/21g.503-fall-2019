@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-503-japanese-iii-fall-2019/debb8061c98657e39cbdd3a7d4049c5a_-W8jzpw_TgE.vtt
+file: /courses/21g-503-japanese-iii-fall-2019/debb8061c98657e39cbdd3a7d4049c5a_-W8jzpw_TgE.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

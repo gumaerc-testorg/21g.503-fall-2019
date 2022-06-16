@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-503-japanese-iii-fall-2019/2b37758e5dba4a0a32ebbcfd1f835565_K12JGiYHcTw.pdf
+file: /courses/21g-503-japanese-iii-fall-2019/2b37758e5dba4a0a32ebbcfd1f835565_K12JGiYHcTw.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
