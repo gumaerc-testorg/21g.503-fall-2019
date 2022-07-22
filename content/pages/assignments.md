@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This page provides the homework assignments for the MIT course 21G.503
+  Japanese III, Fall 2019 taught by Takako Aikawa , Masami Ikeka-Lamm, Wakana Maekawa,
+  and Emiko Rafique..
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ed624928-7699-c20e-d31f-4e314970e3b4
 ---

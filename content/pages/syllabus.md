@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the course policy for the MIT course 21G.503 Japanese
+  III, Fall 2019 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa, and Emiko
+  Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 589f499d-7ba0-ec19-8c5d-d760c29e117e
 ---
