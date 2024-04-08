@@ -11,12 +11,12 @@ uid: 5bbdfe0a-5017-ffd8-8cf7-e530695248a3
 
 Supplemental resources are provided below:
 
-[Online Drill Exercises for Lessons 13–18 in the Genki textbook](http://web.mit.edu/21f.503/www/review.html)
+{{% resource_link "1a050368-090a-48bb-822e-013f3eb212c2" "Online Drill Exercises for Lessons 13–18 in the Genki textbook" %}}
 
-[Genki Self-study Room](http://genki.japantimes.co.jp/self_en)
+{{% resource_link "cebec5e2-8263-4a01-ad8d-2f9a2a19314b" "Genki Self-study Room" %}}
 
-[Genki Video](http://genki.japantimes.co.jp/self/genki-movie)
+{{% resource_link "d4f17e9f-ccf8-453b-9b27-176946342cc8" "Genki Video" %}}
 
-[Japanese Language Proficiency Test](http://www.jlpt.jp/e/)
+{{% resource_link "55f3d3d6-d079-4725-8507-30efa183627c" "Japanese Language Proficiency Test" %}}
 
-[Japan Foundation: Learning Materials](https://www.jpf.go.jp/e/project/japanese/education/resource/index.html)
+{{% resource_link "d30b1634-fa87-4c7a-8b9d-76c5fc2e2e01" "Japan Foundation: Learning Materials" %}}
