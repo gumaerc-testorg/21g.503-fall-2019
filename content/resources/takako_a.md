@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-503-japanese-iii-fall-2019/f0a57e2486c55b1d251119debfca8e33_Takako_A.jpg
+file_size: 11703
 file_type: image/jpeg
 image_metadata:
   caption: ''

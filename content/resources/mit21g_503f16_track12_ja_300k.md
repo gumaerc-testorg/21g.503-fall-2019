@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-503-japanese-iii-fall-2019/b95348692198bfbfc94b80710cf30168_MIT21G_503F16_track12_ja_300k.pdf
+file_size: 68525
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
