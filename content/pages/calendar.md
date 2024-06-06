@@ -178,7 +178,7 @@ Lesson 14 Drill Session (2)
 - In-class quiz
 - あげる, くれる, もらう (work on p. 65 III-A, p. 66 III-C and D)
 - Practice (i) あげる, さしあげる drill and (ii) あげる, くれる, もらう *drill on オンラインドリル*
-- 〜たらどうですか (practice たらどうですか drill on {{% resource_link "1a050368-090a-48bb-822e-013f3eb212c2" "オンラインドリル" %}}, and work on p. 68 IV-A)
+- 〜たらどうですか (practice たらどうですか drill on [オンラインドリル](http://web.mit.edu/21f.503/www/review.html), and work on p. 68 IV-A)
 
 {{< tdclose >}}{{< tdopen >}}
 
