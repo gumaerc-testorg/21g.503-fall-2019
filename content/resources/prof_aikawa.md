@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21g-503-japanese-iii-fall-2019/5bf9bb5420f5c2ab52fd57c055552e07_Prof_Aikawa.jpg
+file: /courses/21g-503-japanese-iii-fall-2019/5bf9bb5420f5c2ab52fd57c055552e07_Prof_Aikawa.jpg
 file_size: 10285
 file_type: image/jpeg
 image_metadata:
