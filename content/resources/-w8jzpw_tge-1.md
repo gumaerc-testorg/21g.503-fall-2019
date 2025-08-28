@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-503-japanese-iii-fall-2019/002a5b24424332cb7f59f060e00130ac_-W8jzpw_TgE.pdf
+file: /ol-ocw-studio-app/courses/21g-503-japanese-iii-fall-2019/002a5b24424332cb7f59f060e00130ac_-W8jzpw_TgE.pdf
 file_size: 11301
 file_type: application/pdf
 learning_resource_types: []
